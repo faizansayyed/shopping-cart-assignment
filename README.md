@@ -39,12 +39,6 @@ npm -v
 
 Follow the following steps to get development environment running.
 
-   _OR USING SSH_
-
-  ```bash
-  git clone git@github.com:AdityaKumawat97/react-e-commerce-website.git
-  ```
-
 * Install node modules
 
    ```bash
